@@ -8,10 +8,11 @@ Edit the cookie to match yours, you can get the cookie by httpcanary if your usi
 <br>
 ### Install all dependecies
 <br>
-```python
-pip install bs4
-pip install lxml
-```
+
+
+    pip install bs4
+    pip install lxml
+
 <br>
 ### Run the script
 Then run the script by doing
