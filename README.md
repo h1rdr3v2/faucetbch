@@ -6,9 +6,7 @@ pip install bs4
 pip install lxml
 ```
 <br>
-Then run the script by doing<br>
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Then run the script by doing
+<br>
+
+    python main.py
