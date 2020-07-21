@@ -17,7 +17,7 @@ Then run the script by doing
 
     python main.py
     
-### Donate
+# Donate
 ## Buy me a coffee 
 https://freewallet.org/id/117ff80a/{coin}
 <br>
