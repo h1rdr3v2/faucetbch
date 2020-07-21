@@ -5,6 +5,7 @@ To use make sure you do
 <br>
 Go to the main.py in line 9<br>
 Edit the cookie to match yours, you can get the cookie by httpcanary if your using an android phone or go to developer tools in any browser, log in , try to claim and copy the request in the network section look for the cookie section and paste it thier
+<br>
 ### Install all dependecies
 ```python
 pip install bs4
