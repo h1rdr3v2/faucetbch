@@ -6,5 +6,7 @@ pip install bs4
 pip install lxml
 ```
 <br>
-Then run the script by doing
-`python main.py`
+Then run the script by doing<br>
+```python
+python main.py
+```
