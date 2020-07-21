@@ -15,7 +15,9 @@ Edit the cookie to match yours, you can get the cookie by httpcanary if your usi
     pip install lxml
 
 <br>
+
 ## Run
+
 <br>
 Then run the script by doing
 <br>
