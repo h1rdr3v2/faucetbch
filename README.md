@@ -7,6 +7,8 @@ pip install lxml
 ```
 <br>
 Then run the script by doing<br>
-```python
-python main.py
+```javascript
+if (isAwesome){
+  return true
+}
 ```
