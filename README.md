@@ -32,3 +32,7 @@ Change {coin} to the coin you wish to donate . thanks 🍺
 
 ## Or help me make the script better
 Or even the readme file 😁
+
+Turned out they didn't give me free coins they needed deposit first
+
+Advice : Don't deposit
